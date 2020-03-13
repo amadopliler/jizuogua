@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feiphimisa.leroirobotics.com/sitemap.xml
